@@ -1,4 +1,4 @@
-Title: Regression Modeling for Housing Price Prediction based on Neumerical and Categorical Features
+Title: Regression Modeling for Housing Price Prediction based on Numerical and Categorical Features
 
 Project Description:
 - Regression model for predicting house price using numerical and categorical values.
