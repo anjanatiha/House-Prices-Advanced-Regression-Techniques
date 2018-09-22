@@ -1,7 +1,7 @@
 ## Regression Modeling for Housing Price Prediction based on Numerical and Categorical Features
 
 ##### Domain             : Machine Learning
-##### Sub-Domain         : Suoervised Learning
+##### Sub-Domain         : Supervised Learning
 ##### Techniques         : Regression
 ##### Application Domain :  Real State, Housing 
 
