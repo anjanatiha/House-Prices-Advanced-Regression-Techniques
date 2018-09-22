@@ -1,6 +1,6 @@
-# Regression Modeling for Housing Price Prediction based on Numerical and Categorical Features
+## Regression Modeling for Housing Price Prediction based on Numerical and Categorical Features
 
-#### Technology : Anaconda, Python
+#### Technology : Python, Machine Learning, Anaconda
 #### Duration   : Aug - Sep 18
 
 ### Description
