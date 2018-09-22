@@ -5,7 +5,7 @@
 ##### Techniques         : Regression
 ##### Application Domain :  Real State, Housing 
 
-#### Duration   : Aug - Sep 18
+##### Duration   : Aug - Sep 18
 
 ### Description
 1. Built regression model for predicting housing price using 79 numerical and categorical features.
@@ -24,8 +24,9 @@
 5. Generate agregated report on performance for various models.
 6. Visualization for different model performance.
 
-#### Tools/IDE   : Anaconda
-#### Libraries   : 
+##### Tools/IDE   : Anaconda
+##### Libraries   : 
+
 Current Version  : v1.0.0.0
 
 Last Update      : 09.20.2018
