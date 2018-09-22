@@ -25,7 +25,7 @@
 ##### Tools/IDE   : Anaconda
 ##### Libraries   : 
 
-##### Duration   : Aug - Sep 18
+##### Duration    : Aug - Sep 18
 
 Current Version  : v1.0.0.0
 
