@@ -25,19 +25,19 @@
 
 <kbd>
 
-<img src="https://github.com/anjanatiha/House-Prices-Advanced-Regression-Techniques/blob/master/output/visualization/explained_variance_score.png"/>
+<img src="https://github.com/anjanatiha/House-Prices-Advanced-Regression-Techniques/blob/master/output/plots/explained_variance_score.png"/>
 
 
 
-<img src=https://github.com/anjanatiha/House-Prices-Advanced-Regression-Techniques/blob/master/output/visualization/mean_absolute_error.png>
+<img src=https://github.com/anjanatiha/House-Prices-Advanced-Regression-Techniques/blob/master/output/plots/mean_absolute_error.png>
 
-<img src=https://github.com/anjanatiha/House-Prices-Advanced-Regression-Techniques/blob/master/output/visualization/mean_squared_error.png>
+<img src=https://github.com/anjanatiha/House-Prices-Advanced-Regression-Techniques/blob/master/output/plots/mean_squared_error.png>
 
-<img src=https://github.com/anjanatiha/House-Prices-Advanced-Regression-Techniques/blob/master/output/visualization/mean_squared_log_error.png>
+<img src=https://github.com/anjanatiha/House-Prices-Advanced-Regression-Techniques/blob/master/output/plots/mean_squared_log_error.png>
 
-<img src=https://github.com/anjanatiha/House-Prices-Advanced-Regression-Techniques/blob/master/output/visualization/median_absolute_error.png>
+<img src=https://github.com/anjanatiha/House-Prices-Advanced-Regression-Techniques/blob/master/output/plots/median_absolute_error.png>
 
-<img src=https://github.com/anjanatiha/House-Prices-Advanced-Regression-Techniques/blob/master/output/visualization/r2_score.png>
+<img src=https://github.com/anjanatiha/House-Prices-Advanced-Regression-Techniques/blob/master/output/plots/r2_score.png>
 
 </kbd>
 
