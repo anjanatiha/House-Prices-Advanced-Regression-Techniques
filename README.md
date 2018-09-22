@@ -3,9 +3,7 @@
 #### Language           : Python
 #### Field              : Machine Learning
 #### Technique          : Regression
-#### Application Domain :  Real State, Housing
-#### Tools              : Anaconda
-## Libraries: 
+#### Application Domain :  Real State, Housing 
 
 #### Duration   : Aug - Sep 18
 
@@ -26,7 +24,8 @@
 5. Generate agregated report on performance for various models.
 6. Visualization for different model performance.
 
-
+#### Tools/IDE   : Anaconda
+#### Libraries   : 
 Current Version  : v1.0.0.0
 
 Last Update      : 09.20.2018
