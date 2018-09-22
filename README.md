@@ -1,12 +1,14 @@
-Title: Regression Modeling for Housing Price Prediction based on Numerical and Categorical Features
+# Regression Modeling for Housing Price Prediction based on Numerical and Categorical Features
 
-Project Description:
-- Regression model for predicting house price using 79 numerical and categorical features.
-- Built pipelines for machine learning model training for reading files, creating training testing dataset, preprocessing (normalization, label encoding of categorical features), extracting features, and training and evaluation in grid search approach for multiple regression models.
-- Generated visualization and aggregated report on the performance of various models.
+#### Technology : Anaconda, Python
+#### Duration   : Aug - Sep 18
 
+### Description
+1. Built regression model for predicting housing price using 79 numerical and categorical features.
+2. Built pipelines for machine learning (regression) model training for reading files, creating training testing dataset, preprocessing (normalization, label encoding of categorical features), extracting features, and training and evaluation in grid search approach for multiple regression models.
+3. Generated visualization and aggregated report on the performance of various models.
 
-Procedure:
+### Procedure:
 
 1. Build pipelines for machine learning model training for reading file, creating training testing dataset, preprocessing 
    (normalization, label encoding of categorical features), extracting features, and training and evaluation in grid search approach for   
@@ -17,3 +19,9 @@ Procedure:
 4. Build model training pipeline for regression
 5. Generate agregated report on performance for various models.
 6. Visualization for different model performance.
+
+#### Tools Requirement: Anaconda, Python 
+
+Current Version  : v1.0.0.0
+
+Last Update      : 09.20.2018
