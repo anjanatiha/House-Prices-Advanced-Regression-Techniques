@@ -23,6 +23,17 @@
 5. Generate agregated report on performance for various models.
 6. Visualization for different model performance.
 
+
+<img src=https://github.com/anjanatiha/House-Prices-Advanced-Regression-Techniques/blob/master/output/visualization/explained_variance_score.png>
+<img src=https://github.com/anjanatiha/House-Prices-Advanced-Regression-Techniques/blob/master/output/visualization/mean_absolute_error.png>
+
+<img src=https://github.com/anjanatiha/House-Prices-Advanced-Regression-Techniques/blob/master/output/visualization/mean_squared_error.png>
+<img src=https://github.com/anjanatiha/House-Prices-Advanced-Regression-Techniques/blob/master/output/visualization/mean_squared_log_error.png>
+
+<img src=https://github.com/anjanatiha/House-Prices-Advanced-Regression-Techniques/blob/master/output/visualization/median_absolute_error.png>
+<img src=https://github.com/anjanatiha/House-Prices-Advanced-Regression-Techniques/blob/master/output/visualization/r2_score.png>
+
+
 ##### Languages   : Python
 ##### Tools/IDE   : Anaconda
 ##### Libraries   : 
