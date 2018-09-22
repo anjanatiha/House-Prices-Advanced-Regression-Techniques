@@ -25,7 +25,7 @@
 
 <kbd>
 
-<img src=https://github.com/anjanatiha/House-Prices-Advanced-Regression-Techniques/blob/master/output/visualization/explained_variance_score.png>
+<img src="https://github.com/anjanatiha/House-Prices-Advanced-Regression-Techniques/blob/master/output/visualization/explained_variance_score.png"/>
 
 
 
