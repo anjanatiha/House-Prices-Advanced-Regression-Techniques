@@ -7,7 +7,7 @@
 
 
 ### Description
-1. Built regression model for predicting housing price using 79 numerical and categorical features.
+1. Built regression model for predicting housing price using 79 numerical and categorical features with regression error (Mean Squared Error) of 0.000685 on a scale of 1.
 2. Built pipelines for machine learning (regression) model training for reading files, creating training testing dataset, preprocessing (normalization, label encoding of categorical features), extracting features, and training and evaluation in grid search approach for multiple regression models.
 3. Generated visualization and aggregated report on the performance of various models.
 
